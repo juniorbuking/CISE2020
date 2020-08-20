@@ -1,0 +1,24 @@
+{
+  "name": "cise2020",
+  "version": "1.0.0",
+  "description": "initial testing ",
+  "main": "initial.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvt2758/CISE2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvt2758/CISE2020/issues"
+  },
+  "homepage": "https://github.com/dvt2758/CISE2020#readme"
+}
